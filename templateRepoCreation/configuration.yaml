@@ -1,0 +1,19 @@
+repos:
+  - name: helm-devops-amazing-service
+    description: Description Amazing Service
+    topics: ["helm", "amazing-service"]
+    visibility: internal
+    teams:
+      push: ["team-a", "team-b"]
+  - name: helm-devops-amazing-service-2
+    description: Description Amazing Service 2
+    topics: ["helm", "amazing-service-2"]
+    visibility: internal
+    teams:
+      push: ["team-a", "team-b"]
+  - name: helm-devops-amazing-service-3
+    description: Description Amazing Service 3
+    topics: ["helm", "amazing-service-3"]
+    visibility: internal
+    teams:
+      push: ["team-a", "team-b"]            
