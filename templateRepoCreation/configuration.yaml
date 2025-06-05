@@ -16,4 +16,4 @@ repos:
     topics: ["helm", "amazing-service-3"]
     visibility: internal
     teams:
-      push: ["team-a", "team-b"]            
+      push: ["team-a", "team-b"]            aaa
