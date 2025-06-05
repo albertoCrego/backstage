@@ -16,4 +16,9 @@ repos:
     topics: ["helm", "amazing-service-3"]
     visibility: internal
     teams:
-      push: ["team-a", "team-b"]            
+      push: ["team-a", "team-b"]              - name: helm-socks-amazing-service
+    description: Description Socks Service
+    topics: ["helm", "socks-service"]
+    visibility: internal
+    teams:
+      push: ["team-a", "team-b"]
